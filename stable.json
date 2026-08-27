@@ -1,13 +1,13 @@
 {
   "product": "rmuti-barch-studio-portal",
   "channel": "stable",
-  "version": "1.0.2",
-  "publishedAt": "2026-08-27T15:14:52.6632190Z",
+  "version": "1.0.3",
+  "publishedAt": "2026-08-27T15:16:48.7287196Z",
   "minimumUpdaterVersion": "1.0.0",
-  "packageUrl": "https://github.com/filterarch-hue/B.ArchRMUTI-Web-Releases/releases/download/v1.0.2/rmuti-portal-frontend-1.0.2.zip",
-  "sha256": "82453edfa6920330fb7f6ccfd55dd9f2986ccb61e990d08d508c65b9faa33b1a",
-  "signature": "czi06JoSSrES5EZTPnmlXTMU38bJS958C8NacQdhcq2OXDafEqEWMm3MB+w14L1uBm1k1oA8+FeySTyG0i/ercCmjRFS4PeAACyoUjNyR9e2Rk41ZjeUVW9bOhpsWjd096/GqOO7k0KSZhj+btb8rRDmbWoKdxu3ERL/ASUZbFbx6LzPdiGNVRmbmC13x8AzdlNnGEwuzQ3TtHDdJ2p6CAd0TBBYq3xhP+cAgoqNfj84iBSk1Wnb030cYwr3SdYsWwcjG9f0Gt0m7JIV38qIKs2/rlZdcCzdvkgSXExGsFYRvUQR2uS+e/gb5tnf3mr8GQc9H4hh2Keq/fOCp92eOhyVeqvpeXbrtFFl+iBqdRIRGINAGd9K4hp1aRZvUbPUbxpx1OYTHCqfTUd112kgxWU0tvxH7AtrFY+PVDZBgEWnre6V5Dch9yWOsYW8z7788wRuse6JU2z0WWan81XIW+suuaaYnNgufyCnMyUD55ViiMwjm7/Vk2w2ca4QUN7A",
+  "packageUrl": "https://github.com/filterarch-hue/B.ArchRMUTI-Web-Releases/releases/download/v1.0.3/rmuti-portal-frontend-1.0.3.zip",
+  "sha256": "2bf437cbf09de20dbc19594bfc4a68e6b8af4bb9fbeefc9749ffdbc6f778fcba",
+  "signature": "kuOiFxISDPCidKcFb8Bx8B6qz6iTMSqs38fg4mDJZdkZedQ6tA7f+UGPx6ZvU71Wqnyg/HldaP/J/+vA5n9npHrgxrbPQk5AqPHnl/Z5OK1/yZLtHETmuQrTpu6lmSEFNXKvYmsQA6Ia/67X8OcsA98KoQrZPjx7lbZhrIA7ZUBhH8tBm0WQMxIJL/pKRdX8axBtbLSeeBLIgEONkbkBnCttv5skTZwsrPLrIkOKdR342QaRMN2iIzZfNsbSIgQo6Nnfx657YGB0tvrLGwri9L/+s3LEXICJrqm43h1wEDV1MwvTcYGVhgOi9Ey4tZyuxjMPfYPFUO/4QcaaHxwWQXSkPYZQ9jY7lwf2qYl+hExikZLGFbtx/uvg2/sOj3Iw7OFrWh2FBfN7M/OpGVXlX0u0v8F+f/WvkrUe/i3FRi0C5xe+LQ4CWT6+4Ac6EBfu53dAjAji7PVa+d3uMWStQICAkbjb0jSqeKRtVe1oyVNJcIjFmphFVULlDIYXWFut",
   "schemaVersion": 1,
-  "appsScriptVersion": "1.0.2",
-  "notes": "RMUTI B.Arch Studio Portal 1.0.2"
+  "appsScriptVersion": "1.0.3",
+  "notes": "RMUTI B.Arch Studio Portal 1.0.3"
 }
