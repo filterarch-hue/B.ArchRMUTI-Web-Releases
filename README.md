@@ -20,7 +20,7 @@ The updater verifies the package SHA-256 and detached signature before staging o
 ## Stable manifest
 
 ```text
-https://raw.githubusercontent.com/filterarch-hue/B.ArchRMUTI-Web-Releases/main/stable.json
+https://api.github.com/repos/filterarch-hue/B.ArchRMUTI-Web-Releases/contents/stable.json?ref=main
 ```
 
 Do not add credentials, installation configuration, Google Sheet IDs, Drive folder IDs, or user data to this repository.
